@@ -34,7 +34,6 @@ function calculateAverage(array) {
     return average;  
 }  
 
-// Main program  
 console.log("Initial array:", numbers);  
 
 addNumber(numbers, 4);  
